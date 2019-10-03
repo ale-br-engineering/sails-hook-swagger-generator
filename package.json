@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-swagger-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a fork of swagger-generator package to disable definitions in generated swagger.json file.",
   "main": "index.js",
   "repository": {
